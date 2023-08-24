@@ -1,0 +1,17 @@
+
+.video-container {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1; /* Optional, to ensure the video stays above other content */
+}
+
+video {
+    width: 100%;
+    display: block;
+}
+
+.content {
+    min-height: 400vh; /* Adjust this value based on your needs */
+    /* Add your other content styling here */
+}
