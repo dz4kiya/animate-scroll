@@ -1,4 +1,9 @@
 
+body {
+    margin: 0;
+}
+
+
 .video-container {
     position: sticky;
     top: 0;
